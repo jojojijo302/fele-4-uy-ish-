@@ -1,0 +1,118 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: inherit;
+    list-style: none;
+    text-decoration: none;
+  }
+  
+
+
+
+
+.
+.ona{
+    font-size: 54px ;
+       margin-left: 100px;
+   
+   
+}
+.ona2{
+    width: 700px;
+    height: 799px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.ona3{
+    display: flex ;
+    width: 357px;
+    height: 101px;
+  font-size: 18px;
+}
+
+
+.ona4{
+   background-color: black;
+   color: aliceblue;
+   
+   width: 70px ;
+   height: 16px;
+   padding: 15px 30px 16px 30px ;
+  font-size: 12px;
+    
+
+}
+
+.ota1{
+  width: 171px;
+  height: 55px;
+}
+
+.ota2{
+  width: 119px;
+  height:20 ;
+  font-size: 15px;
+}
+
+.ota3{
+  width: 240PX;
+  height: 55px;
+}
+
+.ota4{
+  width: 110px;
+height: 55px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+
+.BOBO1{
+  width: 600px;
+  height: 600px;
+
+}
+
+.bobo2P{
+  width: 400px;
+  font-size: 54px;
+  background-color: rgb(0, 0, 0);
+  color: honeydew;
+}
+
+.bobo3{
+  width: 400px;
+  font-size: 18px;
+}
+
+.bbo4{
+width:1000px;
+height: 556px;
+}
+
+.mumi{
+  width: 400px;
+font-size: 30px;
+margin: 10px;
+}
+.mimi{
+  width: 400px;
+  font-size: 17px;
+}
+
+.nute{
+  width: 4000px;
+  font-size: 17px;
+}
+
+
+
+
+
+
+
+
